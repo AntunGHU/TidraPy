@@ -1,0 +1,2 @@
+# 3'00''
+# SQLite je database koja je ukljucena u program i kad taj program damo nekom on ce moci raditi na njemu i mjenjati. Za razliku od SQLite, velike base (MySQL, Postgres) se moraju imati instalirane na PC kako bi programi koji se na njih oskanjaju mogli raditi.
