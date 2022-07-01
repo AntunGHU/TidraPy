@@ -1,0 +1,2 @@
+# Alter the frontend.py script containing the GUI code by changing its functional-oriented design into an OOP design. 
+# For your convenience, the files frontend.py, backend.py (in OOP style), and the book.db files are attached in this article's resources.
