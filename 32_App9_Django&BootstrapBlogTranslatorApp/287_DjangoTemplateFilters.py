@@ -1,1 +1,5 @@
 # 4'00''
+# TF omogucavaju kriterije prikaza kao npr da u index-u pšrikaze samo prvih 500 znakova content-a, ili da ime authora pocne prvim slovom. TF se ostvaruju unutar HTML-templatesa. Da bi mogao to pokazati ide u admin i povecava broj slova -ja Iana Nepoa
+# TF se applya sa | slice:"400" unutar django-tagova {{ post.content | slice:"400"}}
+# Vise o Django TF mozemo naci googlanjem django template filters i na stranici "https://docs.djangoproject.com/en/4.0/ref/templates/builtins/" nalazimo gomilu.
+# Ard bira da pogleda "title" zbog Authora i pocetnog lova i nalazi da to dobiva opet primjenom slice-a u formi: "{{post.author | title}}" da bi dobio "onverts a string into titlecase by making words start with an uppercase character and the remaining characters lowercase. This tag makes no effort to keep “trivial words” in lowercase."
