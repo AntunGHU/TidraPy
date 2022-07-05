@@ -1,0 +1,1 @@
+env i imstalirani fajlovi se nalaze lokalno jer jos nisam savladao vezu env-git. Probat cu to uplodati kao poseban projekt u GH radi backupa

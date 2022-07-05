@@ -1,0 +1,82 @@
+Rok trajanja programera: Možete li 57-godišnjaka zamisliti na razgovoru za posao frontend developera?
+Antonija Bilić Arar ANTONIJA BILIĆ ARAR 28. 06. 2022.
+
+Možete li 57-godišnjaka zamisliti na razgovoru za posao frontend developera u nekoj domaćoj IT agenciji? Zavirili smo u raspravu o tome koliki je rok trajanja programera i upitali nekoliko njih, različitih razina iskustva i pristupa karijeri, može li se do mirovine biti "samo programer".
+
+Koji je rok trajanja developera (onog koji piše kod)? I što rade kad im je dosta? Dva su to vrlo jednostavna pitanja koja je netom jedan programer postavio svojim kolegama iz Facebook grupe Developers Hrvatska Relaxed. Na koja, proizašlo je iz odgovora, nema baš jednostavnih odgovora.
+
+U raspravu su se uključili (1) programeri s više od 20 ili 25 godina iskustva i ponosno tvrdili da njima još ni približno nije istekao rok trajanja; (2) programeri koji su tvrdili da se nakon 7 do 10 godina programerske karijere mora napredovati na voditeljsku poziciju (mora li?), ali i (3) oni koji imaju par godina iskustva i već im je dosta svega i najradije bi se prebacili u kuhare ili poljoprivrednike. Poput Jure Bralića koji je iz IT sektora otišao da bi otvorio antiknu tiskaru u Istri!
+
+Ograničeni fitilj ili programiranje do posljednjeg daha
+Veteran Stjepan Zlodi, koji za sebe kaže da je počeo programirati još u prošlom tisućljeću, a prvi ispit iz programiranja rješavao na papiru, smatra da postoje dvije vrste programera – oni koji imaju ograničeni rok trajanja i oni koji će programirati do posljednjeg daha:
+
+Koliko traje fitilj onima s ograničenim rokom trajanja ovisi o poslu i projektima koje rade. Nekima je to samo jedna od brojnih stepenica u karijeri, nisu previše vezani za programiranje. Neki od njih računaju na to da će netko zaključiti da nisu učinkoviti kao programeri pa će im dati neku drugu poziciju, nekada čak i postanu šefovi programerima.
+
+Oni s malo dužim fitiljem često se nađu zaglavljeni na poslu programera, možda im to nije životni poziv, ali su dobro plaćeni pa guraju dok ide, dok ne izgore. Svi ti “fitiljaši” uglavnom vole veće tvrtke u kojima je lakše naći neku rezervnu poziciju za slučaj da im bude dosta programiranja. Neki “fitiljaši” dočekaju i mirovinu kao programeri.
+
+Rok trajanja programerima produžuju stalne i brze promjene u tehnološkoj industriji. Ili skraćuju, ovisi o tome koliko je netko spreman na stalno učenje i na činjenicu da ono što zna danas za koju godinu možda više neće biti potrebno. Još jedan veteran domaće IT industrije, Tonći Jukić, komentirao je u raspravi da se programiranjem bavi više od 20 godina i da se u to vrijeme “valjda triput promijenilo sve”:
+
+Nema više nekih operativnih sustava, nekih programskih jezika, većine tech stackova… Još uvijek mi je zabavno!
+
+S 57 na razgovoru za posao frontend developera
+Rok trajanja određenog zanimanja, doduše, ne određuje samo koliko dugo je nekome taj posao zanimljiv i uživa radeći ga, nego i koliko dugo je potreban i konkurentan na tržištu rada. Dobna diskriminacija i favoriziranje mladih u tehnološkoj industriji su sveprisutni i skoro da se ne skrivaju – nije rijetkost da se stav da “stariji od 35 jednostavno ne drže korak s tehnologijom” izriče naglas.
+
+S tim na umu, jedan komentator se pitao kako bi se proveo 57-godišnjak koji pokušava dobiti posao frontend developera:
+
+​​Svi pišete kako je pojedincima gušt programirati nakon 15, 20, 30 godina, ali koliko vas zaista zna nekoga tko se s 52 godine prijavio na neki od trenutno oglašenih poslova? Znate li nekoga tko ima 57 i javlja se za posao frontend developera u nekoj od agencija?
+
+Jeste li ikada bili na strani poslodavca koji dobije CV za senior developera (kako manje od seniora s pet banki?) koji navodi 15 firmi od ranih 90-tih i programske jezike koji su se prestali koristiti prije nego se CTO koji ga intervjuira i rodio?
+
+Ja sam bio i ponekad još uvijek jesam i bude mi neugodno kada gledam kako ti ljudi ne budu pozvani ni na razgovor, a da ne govorim o komentarima. Tko u pedesetima samo kodira i nije se razvio u nekom samostalnom smislu, ima neke usko specijalizirane vještine, nego te da je zaista samo programer….
+
+Tko duže traje, generalisti ili specijalisti
+S tom perspektivom se djelomično slaže Marko Budiselić, CTO Memgrapha. On, u kontekstu dugoročne održivosti karijere, developere dijeli na generaliste i specijaliste. Međutim, biti specijalist može biti i blagoslov i prokletstvo:
+
+Tvrtkama su u različitim fazama potrebni različiti ljudi. Primjerice, u početnim fazama su više potrebni generalisti da isprobavaju više stvari i otkriju što ima smisla, a u kasnijim fazama potrebni su više specijalisti da osiguraju stabilno izvršavanje poslovnih procesa.
+
+Iz perspektive pojedinca postoje različiti motivatori, neki ljudi vole jak fokus na specifičnu stvar, dok neki vole stalno raditi nove stvari, a neki vole kombinirati.
+
+U totalno drugoj perspektivi, tehnologija se konstantno mijenja, štoviše kako vrijeme prolazi, stopa promjene je sve veća. Ako se čovjek previše specijalizira za neku tehnologiju, postoji rizik da će njegova vještina zastarjeti. No, isto vrijedi za apsolutno svako drugo područje.
+
+Marko zato kaže da ne postoji rok trajanja programera, već kombinacija motivacije neke osobe da radi određeni posao i potreba firme za tim poslom i da te dvije stvari treba konstantno usklađivati.
+
+“Šteta se ne razvijati u industriji koja nudi toliko prilika za napredovanja, vertikalno i horizontalno”
+Treba dodati da nemaju svi programeri romantičarski pogled na taj posao kao na nešto što se desetljećima radi s jednakim žarom. Bilo je i onih koji developerski posao gledaju samo kao prvu stepenicu u uspinjanju na karijernim ljestvama u tehnološkoj industriji i imaju vrlo precizan odgovor na pitanje o roku trajanja:
+
+Prvo 5-10 godina programiranja, nakon toga lead ili engineering manager pa VP engineeringa, CTO ili arhitekt.
+
+Mladi programer Jurica Kenda (trenutno odrađuje godinu dana pripravništva u Amazon Web Services, prošao je već i par domaćih tvrtki, a i izdao priručnik u kojem je naveo 100 stvari koje svaki softverski inženjer treba znati), već zna da sebe ne vidi na istoj poziciji do kraja karijere. Jednostavno, kaže da je šteta ne razvijati se u industriji koja nudi toliko prilika za horizontalno ili vertikalno napredovanje:
+
+Znam da želim ostati uključen u tehničke odluke te istražiti razne smjerove u trenutku kad se pruži zanimljiva prilika za njih. Sebe ne percipiram kao programera, nego kao “problem solvera”, neovisno jesu li to high-level poslovne odluke ili low-level implementacijski detalji. Uživam u rješavanju problema, neovisno je li problem vezan za servere ili za štednju energije u zgradi.
+
+Iako više nije “samo programer” nego CTO perspektivnog startupa, Budiselić kaže da još uvijek programira:
+
+Potrebno je konstantno biti, kako se kaže, “in the loop”, jer treba razumjeti puno detalja da bi se mogle donositi dobre odluke, a to je nemoguće bez konkretnog isprobavanja i testiranja. Naravno, u to treba uložiti puno vremena i truda.
+
+Nikad dosta: vlastiti projekti, doprinos open-sourceu, zajednici…
+Stjepan Zlodi pak sebe ubraja među one kojima je programiranje životni poziv i koji uopće ne razmišljaju o trenutku kad će im biti dosta programiranja:
+
+Takvi imaju samo trenutak kad im je dosta trenutnog posla i počinju tražiti drugi programerski posao. Uz posao oni rade i sa strane, razvijaju svoje male projekte, pridonose projektima otvorenog koda ili na različite načine pridonose zajednici pri čemu je tu najčešće na neki način uključeno i programiranje.
+
+U dosta slučajeva su upravo ti projekti “sa strane” ispušni ventil koji pomaže programerima da malo duže izdrže bullshit na stalnom poslu. Oni će prije napustiti posao zbog zastarjelog ili neodgovarajućeg tech stacka, neslaganjem s metodama razvoja, preteških legacy utega nego zbog plaće.
+
+Tek nedavno se u domaćoj tehnološkoj zajednici počelo pričati o činjenici da za napredovanje u developerskoj karijeri ne bi trebalo biti nužno napredovati u menadžment. Crno-bijelo gledanje na programersku karijeru osjetilo se i u raspravi, kao da su jedina dva moguća puta – ili prelazak u menadžment (za što su mnogi komentirali da ih ne zanima, niti su dobri u tome) ili do kraja karijere ostaneš “samo programer” (i onda s 57 nemaš šanse na natječajima za posao).
+
+A nije i ne bi smjelo biti tako. U stvarnosti godine znanja i iskustva mogu donijeti napredovanje u karijeri i bez prekvalificiranja u vođenje timova – od pozicije arhitekta do raznih lead, principal ili distinguished inženjera. Na kojima se oni koji to žele mogu  tehničkim problemima baviti dokgod im je to gušt!
+
+Marko BudiselićJurica KendaStjepan Zlodiprogramiranjekarijera
+Antonija Bilić ArarANTONIJA BILIĆ ARAR 
+Iz medija otišla u startupe i marketing, pa u tech, pa natrag u medij. Na Netokraciji kombinira najbolje od svega i piše o developerskim, startup i growth temama te digitalnim medijima i marketingu.
+
+KOMENTARI
+Ante
+29. 06. 2022. u 12:04 amOdgovori
+Slabo je naveden popis poslova na koje se mogu prebaciti programeri kojima dosadi kodiranje (ili oni kojima nije dosadilo, ali nece nitko da ih zaposli). Koji su to sve poslovi? Mislim na informaticke poslove, ne racunajuci gradjevinu i poljoprivredu.
+
+Blagi
+02. 07. 2022. u 7:08 pmOdgovori
+Imam 69 godina, radim kao developer i upravo tražim nove izazove. Prvi programerski posao dobio sam 1981.
+
+Ante
+03. 07. 2022. u 4:51 pmOdgovori
+Blagi, ti bi mogao reci svoje iskustvo, kako poslodavci gledaju na starije programere, da li si lako nalazio poslove ili su gazde imali predrasude?
