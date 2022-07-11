@@ -16,3 +16,5 @@
 # slusajuci arda ipak shavcam da to ne ide! pocetnici moraju ici prema kompleksnosti polagano. neide drugacije!!!
 #! NASTAVAK s videom part2
 # objasnjava 3. verziju koja je bez greske!!!
+# Konacna verzija i pokretanje i NE RADI! iako u py-u nikakve greske!
+# Predaleko je ovo, treba naci nesto postupnije
